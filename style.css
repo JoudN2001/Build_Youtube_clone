@@ -209,6 +209,8 @@ main {
 .title {
     display: flex;
     flex-direction: column;
+    color: rgb(96, 96, 96);
+
 }
 
 .title a {
@@ -233,4 +235,12 @@ main {
     font-size: 1.4em;
     line-height: 2rem;
     font-weight: 400;
+}
+
+.video_creator {
+    color: rgb(96, 96, 96);
+}
+
+.video_creator:hover {
+    color: #000;
 }
